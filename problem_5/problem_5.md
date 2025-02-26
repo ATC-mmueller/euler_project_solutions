@@ -26,5 +26,5 @@ $$
 Smallest multiple of the numbers from **1** to **5**: 
 
 $$
-2^2*3^1*5^1 = 60.
+2^2 * 3^1 * 5^1 = 60
 $$
