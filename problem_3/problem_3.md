@@ -15,7 +15,7 @@ Except for 2 and 3, prime numbers are of the form
 Furthermore, a prime factor of a number can not be greater than the square root of that number.
 
 
-So to find the highest prime factor we check numbers of the above form starting from the square root of 600851475143 (rounded down to the next integer) and moving our way down to 1.
+So to find the highest prime factor we check numbers of the above form starting from the square root of 600851475143 (rounded up to the next integer) and moving our way down to 1.
 
 The first factor is the number we are looking for.
 
