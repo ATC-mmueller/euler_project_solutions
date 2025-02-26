@@ -14,12 +14,17 @@ Example:
 $$
 2 = 2^1, 3 = 3^1, 4 = 2^2, 5 = 5^1
 $$
+
 Contained prime numbers: **2**,**3** and **5**.
 
-Highest powers of the prime factors: 
-$$2^2, 3^1 \text{ and } 5^1 $$
+Highest powers of the prime factors:
+
+$$
+2^2, 3^1 \text{ and } 5^1 
+$$
 
 Smallest multiple of the numbers from **1** to **5**: 
+
 $$
 2^2*3^1*5^1 = 60.
 $$
